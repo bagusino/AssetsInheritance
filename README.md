@@ -12,6 +12,7 @@ There are two Smart Contracts in this project Inheritance and InheritanceFactory
 - The period of time should be configurable and only available to the owner
 - If the owner fails to check in within a set time, the contract distributes its balance among the heirs.
 TODO: - There is a 1% fee when the distribution is done.
+TODO: - Add support for more assets
 - Supports adding funds.
 ### InheritanceFactory
 This contract aims to create instances of the previous one with the configuration that the owner want to stablish.
